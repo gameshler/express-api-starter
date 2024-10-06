@@ -2,7 +2,7 @@
 
 How to use this template:
 
-Clone This Repository then set it up however you want.
+Clone This Repository Then Set It Up However You Want.
 
 ## Dependencies:
 
