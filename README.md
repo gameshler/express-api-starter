@@ -2,9 +2,7 @@
 
 How to use this template:
 
-```sh
-npx create-express-api -d my-api-name
-```
+Clone This Repository then set it up however you want.
 
 ## Dependencies:
 
